@@ -1,0 +1,13 @@
+.link{
+    color: var(--branco);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 1em;
+    border: 1px solid transparent;
+    text-decoration: none;
+    transition: all 1s;
+}
+
+.link:hover{
+    border: 1px solid;
+}
